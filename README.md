@@ -1,0 +1,2 @@
+# mindustrywiki
+none
